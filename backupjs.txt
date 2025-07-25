@@ -4,6 +4,11 @@ const gruposWhatsapp = [
     descricao: "GRUPO DE CARIACICA ES.",
     link: "https://chat.whatsapp.com/FITyBYWMqtd3QHOZpDorMA"
   },
+   {
+    titulo: "🚀 WHATSAPP GRUPOS",
+    descricao: "VITÓRIA ES.",
+    link: "https://chat.whatsapp.com/HrWXREVvOJT8dg3VkqsnhT"
+  },
 
 ];
 
